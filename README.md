@@ -37,6 +37,12 @@ Two main models were tested:
 
 The best-performing model used 2 hidden layers, L2 regularization, and dropout. This model generalizes well and achieves a high **F1 score** of 0.813, outperforming the baseline logistic regression model.
 
+Below is a visualization of the training and validation loss, along with the accuracy of the final model over 200 epochs:
+![image](https://github.com/user-attachments/assets/b13e8b76-e3ca-4b90-b130-caea0e01c4a8)
+
+Additionally, here is the **confusion matrix** for the final model:
+![image](https://github.com/user-attachments/assets/6e4bb4cd-a11d-4869-a7b5-e72289004fed)
+
 ## Results
 
 The following table summarizes the performance of the different models:
