@@ -41,7 +41,7 @@ Below is a visualization of the training and validation loss, along with the acc
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github.com/user-attachments/assets/b13e8b76-e3ca-4b90-b130-caea0e01c4a8" alt="Training and Validation Results" width="700"/>
-  <img src="https://github.com/user-attachments/assets/6e4bb4cd-a11d-4869-a7b5-e72289004fed" alt="Confusion Matrix" width="300"/>
+  <img src="https://github.com/user-attachments/assets/6e4bb4cd-a11d-4869-a7b5-e72289004fed" alt="Confusion Matrix" width="400"/>
 </div>
 
 ## Results
