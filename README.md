@@ -56,4 +56,5 @@ The following table summarizes the performance of the different models:
 
 ## Conclusion
 
-The project demonstrated that a **Multilayer Perceptron** can outperform logistic regression for rain prediction. The final model showed an improvement in generalization and perf
+The project demonstrated that a **Multilayer Perceptron** can outperform logistic regression for rain prediction. The final model showed an improvement in generalization and performance, making it suitable for real-world weather forecasting applications.
+
